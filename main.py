@@ -36,7 +36,7 @@ DICE = ["1️⃣",
        ]
 
 START_BUTTON = InlineKeyboardMarkup([[              
-                 InlineKeyboardButton('🍁 Owner 🍁', user_id="1868693153")
+                 InlineKeyboardButton('🍁 Owner 🍁', url="t.me/Festus_With_Fire")
                  ],
                  [
                  InlineKeyboardButton("┊𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』", url="https://t.me/AlphaTm_Botz"),
